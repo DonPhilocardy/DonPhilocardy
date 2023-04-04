@@ -1,4 +1,5 @@
 ### Óla! Eu sou Don Philocardy Souffrant 🖐️
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/don-philocardy-souffrant-a52017213/)
 
 ![Don Philocardy GitHub stats](https://github-readme-stats.vercel.app/api?username=DonPhilocardy&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonPhilocardy)](https://github.com/anuraghazra/github-readme-stats)
