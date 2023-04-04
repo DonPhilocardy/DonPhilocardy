@@ -1,4 +1,5 @@
-### Óla! Eu sou Don Philocardy Souffrant 🖐️
+## Hi 👋, I'm Don Philcardy Souffrant
+# Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/don-philocardy-souffrant-a52017213/)
 
 # 💻 Tech Stack:
