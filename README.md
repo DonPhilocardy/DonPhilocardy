@@ -1,6 +1,7 @@
 ### Óla! Eu sou Don Philocardy Souffrant 🖐️
 
 ![Don Philocardy GitHub stats](https://github-readme-stats.vercel.app/api?username=DonPhilocardy&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonPhilocardy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia
 
